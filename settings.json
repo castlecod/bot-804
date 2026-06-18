@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "THECASTLE-kCNB.aternos.me",
-    "port": 46406,
+    "ip": "Chronos-MC.exaroton.me",
+    "port": 11609,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
+        "thanks for coming in this server!",
         "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
     },
